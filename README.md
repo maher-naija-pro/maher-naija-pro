@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 Sure, here is the provided HTML code with each item on a different line:
 
-```html
+
 <p align="left"> 
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
