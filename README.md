@@ -25,7 +25,35 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
         </a>
   </li>
+  <li>
+     <h3 align="left">Laguages:</h3>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    
 
+  </li>
+  <li>
+     <h3 align="left">CI/CD:</h3>
+          <a href="https://circleci.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
+    </a>
+
+  </li>
+    <li>
+     <h3 align="left">Tools:</h3>
+          <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+
+
+  </li>
 </ul>
 
 
@@ -34,42 +62,10 @@
 
 
   
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-  <li>
-    <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-      <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://circleci.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-    </a>
+
+
+
+
   </li>
   <li>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
