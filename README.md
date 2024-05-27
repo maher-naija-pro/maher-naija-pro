@@ -73,19 +73,14 @@
 
   </li>
   <li>
-     <h3 align="left">Databases/Analytics:</h3>
+     <h3 align="left">DATA/Databases/Analytics:</h3>
             <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
     </a>
         
-
-  </li>
-
-      <li>
    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
     </a>
-
 
   </li>
     
