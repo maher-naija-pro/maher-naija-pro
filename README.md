@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maher NAIJA</h1>
 <h3 align="center">A passionate Platform / Solution Architech</h3>
 
-- 👯 I’m looking to collaborate on **Build new products**
+- 👯 I’m looking to collaborate on **Building new products**
 
 - 📝 I regularly write articles on [https://medium.com/@mahernaija](https://medium.com/@mahernaija)
 
