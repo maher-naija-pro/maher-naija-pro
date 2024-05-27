@@ -72,11 +72,7 @@
     </a>
 
   </li>
-
-
-
-
-      <li>
+  <li>
      <h3 align="left">Databases/Analytics:</h3>
             <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
