@@ -1,4 +1,4 @@
-[![Gmail](https://img.shields.io/badge/-maher.naija.halima-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarrah.benhalima@insat.ucar.tn) 
+[![Gmail](https://img.shields.io/badge/-maher.naija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarrah.benhalima@insat.ucar.tn) 
 [![Github](https://img.shields.io/github/followers/maher-naija-pro?label=Follow&style=social)](https://github.com/maher-naija-pro) 
 
 <h1 align="center">Hi 👋, I'm Maher NAIJA</h1>
