@@ -3,9 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Maher NAIJA</h1>
 
-<h1 align="center">
-    <b>Hello :wave:</b>
-</h1>
+
 
 ``` yaml
 introduction:
