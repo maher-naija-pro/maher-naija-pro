@@ -1,4 +1,5 @@
-[![Gmail](https://img.shields.io/badge/-maher-naija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maher.naija@gmail.com) [![](https://visitcount.itsvg.in/api?id=sarwirr&icon=5&color=1)](https://visitcount.itsvg.in) [![Github](https://img.shields.io/github/followers/maher-naija-pro?label=Follow&style=social)](https://github.com/maher-naija-pro) 
+[![Gmail](https://img.shields.io/badge/maher-naija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maher.naija@gmail.com)
+[![Github](https://img.shields.io/github/followers/maher-naija-pro?label=Follow&style=social)](https://github.com/maher-naija-pro) 
 
 <h1 align="center">Hi 👋, I'm Maher NAIJA</h1>
 <h3 align="center">A passionate Platform / Solution Architech</h3>
