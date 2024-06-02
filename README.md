@@ -12,6 +12,11 @@
 
 - 📫 How to reach me **maher.naija@gmail.com**
 
+- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maher-naija-pro&show_icons=true&locale=en&layout=compact" alt="maher-naija-pro" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maher-naija-pro&" alt="maher-naija-pro" /></p>
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -148,6 +153,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maher-naija-pro&show_icons=true&locale=en&layout=compact" alt="maher-naija-pro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maher-naija-pro&" alt="maher-naija-pro" /></p>
