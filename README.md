@@ -11,9 +11,10 @@
 introduction:
     name: maher naija
     interests:
+    - Platform engineering
     - Solution architecture
     - DevOps / ML ops
-    - Data eng
+    - Data enginering
 
     settings:
         dark_mode: true
