@@ -2,13 +2,37 @@
 [![Github](https://img.shields.io/github/followers/maher-naija-pro?label=Follow&style=social)](https://github.com/maher-naija-pro) 
 
 <h1 align="center">Hi 👋, I'm Maher NAIJA</h1>
-<h3 align="center">A passionate Platform / Solution Architech</h3>
+
+<h1 align="center">
+    <b>Hello :wave:</b>
+</h1>
+
+``` yaml
+introduction:
+    name: maher naija
+    interests:
+    - Solution architecture
+    - DevOps / ML ops
+    - Data eng
+
+    settings:
+        dark_mode: true
+        language: English
+        os: innovation
+    bio: |
+       A passionate Platform / Solution Architech
+       I am a fourth year Network and Telecommunication student at the
+       National Institute of Applied Science and Technologies.     
+```
+
+<h2 align="center">
+    <b>Let's connect! 😁</b>
+</h2>
+
 
 - 👯 I’m looking to collaborate on **Building new products**
 
 - 📝 I regularly write articles on [https://medium.com/@mahernaija](https://medium.com/@mahernaija)
-
-- 💬 Ask me about **Devops / Data / Architecture**
 
 - 📫 How to reach me **maher.naija@gmail.com**
 
