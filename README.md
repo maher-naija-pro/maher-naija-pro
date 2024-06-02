@@ -35,7 +35,10 @@ introduction:
 
 - 📝 I regularly write articles on [https://medium.com/@mahernaija](https://medium.com/@mahernaija)
 
-- 📫 How to reach me **maher.naija@gmail.com**
+- 📫 How to reach me :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maher-naija-77260625//) 
+[![Gmail](https://img.shields.io/badge/-maher.naija-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maher.naija@gmail.com) 
 
 - <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maher-naija-pro&show_icons=true&locale=en&layout=compact" alt="maher-naija-pro" /></p>
 
