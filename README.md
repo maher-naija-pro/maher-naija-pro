@@ -7,21 +7,24 @@
 
 ``` yaml
 introduction:
-    name: maher naija
+    name: Maher Naija
     interests:
-    - Platform engineering
-    - Solution architecture
-    - DevOps / ML ops
-    - Data enginering
+    - Platform Engineering
+    - Solution Architecture
+    - DevOps / MLOps
+    - Data Engineering
+    - Cloud-native Technologies
 
     settings:
         dark_mode: true
         language: English
         os: innovation
     bio: |
-       A passionate Platform / Solution Architech
-       I am a fourth year Network and Telecommunication student at the
-       National Institute of Applied Science and Technologies.     
+       A passionate DevOps Engineer and Solution Architect with extensive experience in cloud-native technologies,
+       Kubernetes, and CI/CD pipelines. I specialize in designing scalable, secure, and efficient infrastructure for complex applications,
+       including blockchain and Web3 projects. My work is driven by a commitment to innovation, collaboration, and continuous improvement,
+       with a particular focus on integrating modern DevOps practices.
+
 ```
 
 <h2 align="center">
